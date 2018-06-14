@@ -61,10 +61,10 @@ namespace IGS1Consol
             }
             public float dx = 0.003f;
             public float dy = 0.003f;
-            public static Point point1 = new Point();
-            public static Point point2 = new Point();
-            public static Point point3 = new Point();
-            public static Point point4 = new Point();
+            public  Point point1 = new Point();
+            public  Point point2 = new Point();
+            public  Point point3 = new Point();
+            public  Point point4 = new Point();
             public Rectangle rectangle = new Rectangle(point1, point2, point3, point4);
             public Circle circle = new Circle();
 
